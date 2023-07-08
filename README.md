@@ -1,5 +1,5 @@
 # World Cup Database
-Certification task for freeCodeCamp [Relational Databases](https://www.markdownguide.org/cheat-sheet/).
+Certification task for freeCodeCamp [Relational Databases](https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-database-project/build-a-world-cup-database).
 
 ## Files:
 - worldcup.sql
